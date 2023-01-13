@@ -3,7 +3,9 @@
 ** Keep your enterprise more secure and always up to date with cloud-connected apps and services in Microsoft 365.
 ## Your modernized Office
 
-![alt text]([http://url/to/img.png](https://cdn.shopify.com/s/files/1/1694/1769/collections/office-banner_1d011256-a52d-472e-aae6-df0e30d51a40.png));
+
+![GitHub Logo](https://ca.brytesoft.com/media/wysiwyg/Office2021-Banner-Brytesoft.jpg) Format: ![Alt Text](url) 
+
 
 ## Office 2021 Home and Student
 https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudent2021Retail.img

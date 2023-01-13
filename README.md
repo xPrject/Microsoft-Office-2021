@@ -1,7 +1,8 @@
 # Microsoft-Office-2021
+** Create content, stay organized, and work together with updated versions of Word, Excel, PowerPoint, and other apps in Office 2021.
+** Keep your enterprise more secure and always up to date with cloud-connected apps and services in Microsoft 365.
 ## Your modernized Office
-** Create content, stay organized, and work together with updated versions of Word, Excel, PowerPoint, and other apps in Office 2021. **
-** Keep your enterprise more secure and always up to date with cloud-connected apps and services in Microsoft 365. **
+
 
 
 

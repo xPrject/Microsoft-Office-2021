@@ -4,7 +4,7 @@
 ## Your modernized Office
 
 
-![GitHub Logo](https://ca.brytesoft.com/media/wysiwyg/Office2021-Banner-Brytesoft.jpg) Format: ![Alt Text](url) 
+![GitHub Logo](https://ca.brytesoft.com/media/wysiwyg/Office2021-Banner-Brytesoft.jpg)(url) 
 
 
 ## Office 2021 Home and Student

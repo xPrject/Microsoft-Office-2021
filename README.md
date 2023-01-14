@@ -1,17 +1,13 @@
 # Microsoft-Office-2021
-** Create content, stay organized, and work together with updated versions of Word, Excel, PowerPoint, and other apps in Office 2021.
-** Keep your enterprise more secure and always up to date with cloud-connected apps and services in Microsoft 365.
+**Create content, stay organized, and work together with updated versions of Word, Excel, PowerPoint, and other apps in Office 2021.**
+**Keep your enterprise more secure and always up to date with cloud-connected apps and services in Microsoft 365.**
 ## Your modernized Office
 
-
-<!---
+<!--- BANNER LOGO --->
 ![GitHub Logo](https://ca.brytesoft.com/media/wysiwyg/Office2021-Banner-Brytesoft.jpg)(url)
--->
-![Alt text]([(https://cdn.shopify.com/s/files/1/1694/1769/collections/office-banner_1d011256-a52d-472e-aae6-df0e30d51a40.png) (https://github.com/xPrject/Microsoft-Office-2021)]  "Office 2021")
 
 
-
-
+<!--- DIRECT LINKS --->
 ## Office 2021 Home and Student
 https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudent2021Retail.img
 
